@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I am a Computer Science student at Grand Valley State University
+
+CIS courses I am currently taking:
+* Mobile Application Development
+* Introduction to Software Engineering
+
 <!--
 **connor-valley1/connor-valley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
