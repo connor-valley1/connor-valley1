@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a Computer Science student at Grand Valley State University
+My name is Connor Valley, I am a Computer Science student at Grand Valley State University
 
 CIS courses I am currently taking:
 * Mobile Application Development
