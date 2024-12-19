@@ -1,10 +1,17 @@
 ## Hi there 👋
 
-My name is Connor Valley, I am a Computer Science student at Grand Valley State University
+I'm Connor, I study computer science and cybersecurity at Grand Valley State University
 
-CIS courses I am currently taking:
+I am currently working on projects with:
+* HTML/CSS/JavaScript
+* Python
+
+CIS Courses I Have Taken:
 * Mobile Application Development
 * Introduction to Software Engineering
+* System-level Programming & Utilities
+* Data Structures and Algorithms
+* Discrete Math II
 
 <!--
 **connor-valley1/connor-valley1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
