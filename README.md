@@ -2,12 +2,16 @@
 
 I'm Connor, I study computer science and cybersecurity at Grand Valley State University
 
+<!--
 I am currently working on projects with:
 * JavaScript
 * Python
 * Go
+-->
 
 CIS Courses I Have Taken:
+* Data Communicatons
+* Structure Programming Languages
 * Mobile Application Development
 * Introduction to Software Engineering
 * System-level Programming & Utilities
